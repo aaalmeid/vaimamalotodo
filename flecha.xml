@@ -1,163 +1,235 @@
 #EXTM3U
-#EXTINF:-1,PT| RTP 1 H
-http://iptv.nonoip.com:7000/sabir1/12345678/1481
-#EXTINF:-1,PT| RTP 2 HD
-http://iptv.nonoip.com:7000/sabir1/12345678/1482
-#EXTINF:-1,PT| RTP 3 HD
-http://iptv.nonoip.com:7000/sabir1/12345678/1487
-#EXTINF:-1,PT| RTP ACORES HD
-http://iptv.nonoip.com:7000/sabir1/12345678/1488
-#EXTINF:-1,PT| RTP MEMORIA HD
-http://iptv.nonoip.com:7000/sabir1/12345678/1489
-#EXTINF:-1,PT| ABOLA TV HD
-http://iptv.nonoip.com:7000/sabir1/12345678/1530
-#EXTINF:-1,PT| AXN BLACK HD
-http://iptv.nonoip.com:7000/sabir1/12345678/1505
-#EXTINF:-1,PT| AXN HD
-http://iptv.nonoip.com:7000/sabir1/12345678/1506
-#EXTINF:-1,PT| AXN WHITE HD
-http://iptv.nonoip.com:7000/sabir1/12345678/1507
-#EXTINF:-1,PT| BTV 1 HD
-http://iptv.nonoip.com:7000/sabir1/12345678/1526
-#EXTINF:-1,PT| BTV 1
-http://iptv.nonoip.com:7000/sabir1/12345678/1525
-#EXTINF:-1,PT| CAZA e PESCA HD
-http://iptv.nonoip.com:7000/sabir1/12345678/1552
-#EXTINF:-1,PT| CANAL Q
-http://iptv.nonoip.com:7000/sabir1/12345678/1485
-#EXTINF:-1,PT| CARTOON NETWORK HD
-http://iptv.nonoip.com:7000/sabir1/12345678/1537
-#EXTINF:-1,PT| CINE MUNDO HD
-http://iptv.nonoip.com:7000/sabir1/12345678/1508
-#EXTINF:-1,PT| CMTV HD
-http://iptv.nonoip.com:7000/sabir1/12345678/1494
-#EXTINF:-1,PT| DISCOVERY CHANNEL HD
-http://iptv.nonoip.com:7000/sabir1/12345678/1538
-#EXTINF:-1,PT| DISCOVERY SHOWCASE
-http://iptv.nonoip.com:7000/sabir1/12345678/1539
-#EXTINF:-1,PT| DISNEY CHANNEL HD
-http://iptv.nonoip.com:7000/sabir1/12345678/1532
-#EXTINF:-1,PT| DISNEY JUNIOR HD
-http://iptv.nonoip.com:7000/sabir1/12345678/1533
-#EXTINF:-1,PT| EUROSPORT 1 FHD
-http://iptv.nonoip.com:7000/sabir1/12345678/1529
-#EXTINF:-1,PT| FOX COMEDY HD
-http://iptv.nonoip.com:7000/sabir1/12345678/1510
-#EXTINF:-1,PT| FOX CRIME HD
-http://iptv.nonoip.com:7000/sabir1/12345678/1511
-#EXTINF:-1,PT| FOX HD
-http://iptv.nonoip.com:7000/sabir1/12345678/1509
-#EXTINF:-1,PT| FOX LIFE HD
-http://iptv.nonoip.com:7000/sabir1/12345678/1512
-#EXTINF:-1,PT| FOX MOVIES HD
-http://iptv.nonoip.com:7000/sabir1/12345678/1513
-#EXTINF:-1,PT| TV GLOBO HD
-http://iptv.nonoip.com:7000/sabir1/12345678/1554
-#EXTINF:-1,PT| HISTORIA
-http://iptv.nonoip.com:7000/sabir1/12345678/1540
-#EXTINF:-1,PT| HOLLYWOOD HD
-http://iptv.nonoip.com:7000/sabir1/12345678/1502
-#EXTINF:-1,PT| MOV HD
-http://iptv.nonoip.com:7000/sabir1/12345678/1503
-#EXTINF:-1,PT| NAT GEO WILD HD
-http://iptv.nonoip.com:7000/sabir1/12345678/1542
-#EXTINF:-1,PT| NATIONAL GEOGRAPHIC FHD
-http://iptv.nonoip.com:7000/sabir1/12345678/1541
-#EXTINF:-1,PT| NICKELODEON HD
-http://iptv.nonoip.com:7000/sabir1/12345678/1534
-#EXTINF:-1,PT| ODISSEIA HD
-http://iptv.nonoip.com:7000/sabir1/12345678/1551
-#EXTINF:-1,PT| PANDA HD
-http://iptv.nonoip.com:7000/sabir1/12345678/1535
-#EXTINF:-1,PT| SIC HD
-http://iptv.nonoip.com:7000/sabir1/12345678/1483
-#EXTINF:-1,PT| SIC CARAS HD
-http://iptv.nonoip.com:7000/sabir1/12345678/1490
-#EXTINF:-1,PT| SIC Kids HD
-http://iptv.nonoip.com:7000/sabir1/12345678/1491
-#EXTINF:-1,PT| SIC NOTICIAS HD
-http://iptv.nonoip.com:7000/sabir1/12345678/1493
-#EXTINF:-1,PT| SPORT TV 1 FHD
-http://iptv.nonoip.com:7000/sabir1/12345678/1515
-#EXTINF:-1,PT| SPORT TV 1 HD
-http://iptv.nonoip.com:7000/sabir1/12345678/1514
-#EXTINF:-1,PT| SPORT TV 2 FHD
-http://iptv.nonoip.com:7000/sabir1/12345678/1517
-#EXTINF:-1,PT| SPORT TV 2 HD
-http://iptv.nonoip.com:7000/sabir1/12345678/1516
-#EXTINF:-1,PT| SPORT TV 3 FHD
-http://iptv.nonoip.com:7000/sabir1/12345678/1519
-#EXTINF:-1,PT| SPORT TV 3 HD
-http://iptv.nonoip.com:7000/sabir1/12345678/1518
-#EXTINF:-1,PT| SPORT TV 4 FHD
-http://iptv.nonoip.com:7000/sabir1/12345678/1521
-#EXTINF:-1,PT| SPORT TV 4 HD
-http://iptv.nonoip.com:7000/sabir1/12345678/1520
-#EXTINF:-1,PT| SPORT TV 5 FHD
-http://iptv.nonoip.com:7000/sabir1/12345678/1523
-#EXTINF:-1,PT| SPORT TV 5 HD
-http://iptv.nonoip.com:7000/sabir1/12345678/1522
-#EXTINF:-1,PT| SPORTTV HD
-http://iptv.nonoip.com:7000/sabir1/12345678/1524
-#EXTINF:-1,PT| SPORTINGTV HD
-http://iptv.nonoip.com:7000/sabir1/12345678/1527
-#EXTINF:-1,PT| SYFY
-http://iptv.nonoip.com:7000/sabir1/12345678/1504
-#EXTINF:-1,PT| TOROS TV
-http://iptv.nonoip.com:7000/sabir1/12345678/1531
-#EXTINF:-1,PT| TVCINE 1 FHD
-http://iptv.nonoip.com:7000/sabir1/12345678/1545
-#EXTINF:-1,PT| TVCINE 1 HD
-http://iptv.nonoip.com:7000/sabir1/12345678/1497
-#EXTINF:-1,PT| TVCINE 2 FHD
-http://iptv.nonoip.com:7000/sabir1/12345678/1546
-#EXTINF:-1,PT| TVCINE 2 HD
-http://iptv.nonoip.com:7000/sabir1/12345678/1498
-#EXTINF:-1,PT| TVCINE 3 FHD
-http://iptv.nonoip.com:7000/sabir1/12345678/1547
-#EXTINF:-1,PT| TVCINE 3 HD
-http://iptv.nonoip.com:7000/sabir1/12345678/1499
-#EXTINF:-1,PT| TVCINE 4 HD
-http://iptv.nonoip.com:7000/sabir1/12345678/1500
-#EXTINF:-1,PT| TV SERIES HD
-http://iptv.nonoip.com:7000/sabir1/12345678/1501
-#EXTINF:-1,PT| TVI HD
-http://iptv.nonoip.com:7000/sabir1/12345678/1484
-#EXTINF:-1,PT| TVI 24 HD
-http://iptv.nonoip.com:7000/sabir1/12345678/1492
-#EXTINF:-1,PT| TVI FICCAO HD
-http://iptv.nonoip.com:7000/sabir1/12345678/1496
-#EXTINF:-1,PT| TVI REALITY HD
-http://iptv.nonoip.com:7000/sabir1/12345678/1495
-#EXTINF:-1,PT| Afro Music Channel
-http://iptv.nonoip.com:7000/sabir1/12345678/3782
-#EXTINF:-1,PT| MCM POP
-http://iptv.nonoip.com:7000/sabir1/12345678/3781
-#EXTINF:-1,PT| MCM TOP
-http://iptv.nonoip.com:7000/sabir1/12345678/3780
-#EXTINF:-1,PT| Mezzo
-http://iptv.nonoip.com:7000/sabir1/12345678/3779
-#EXTINF:-1,PT| MTV
-http://iptv.nonoip.com:7000/sabir1/12345678/3783
-#EXTINF:-1,PT| Trace Urban
-http://iptv.nonoip.com:7000/sabir1/12345678/3777
-#EXTINF:-1,PT| VH1
-http://iptv.nonoip.com:7000/sabir1/12345678/3776
-#EXTINF:-1,PT| Eleven Sports 1 HD
-http://iptv.nonoip.com:7000/sabir1/12345678/5014
-#EXTINF:-1,PT| Eleven Sports 1 FHD
-http://iptv.nonoip.com:7000/sabir1/12345678/5013
-#EXTINF:-1,PT| Eleven Sports 2 HD
-http://iptv.nonoip.com:7000/sabir1/12345678/5012
-#EXTINF:-1,PT| Eleven Sports 2 FHD
-http://iptv.nonoip.com:7000/sabir1/12345678/5011
-#EXTINF:-1,PT| Eleven Sports 3 HD
-http://iptv.nonoip.com:7000/sabir1/12345678/5010
-#EXTINF:-1,PT| Eleven Sports 3 FHD
-http://iptv.nonoip.com:7000/sabir1/12345678/5009
-#EXTINF:-1,PT| Eleven Sports 4 HD
-http://iptv.nonoip.com:7000/sabir1/12345678/5008
-#EXTINF:-1,PT| Eleven Sports 5 HD
-http://iptv.nonoip.com:7000/sabir1/12345678/5006
-#EXTINF:-1,PT| Eleven Sports 6  HD
-http://iptv.nonoip.com:7000/sabir1/12345678/5004
+#EXTINF:-1 ,RTP 1
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/172.m3u8
+#EXTINF:-1 ,RTP 1 HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/616.m3u8
+#EXTINF:-1 ,RTP 2
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/173.m3u8
+#EXTINF:-1 ,SIC
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/174.m3u8
+#EXTINF:-1 ,SIC HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/638.m3u8
+#EXTINF:-1 ,TVI
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/175.m3u8
+#EXTINF:-1 ,TVI HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/889.m3u8
+#EXTINF:-1 ,CMTV
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/176.m3u8
+#EXTINF:-1 ,CMTV HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/669.m3u8
+#EXTINF:-1 ,TVI 24
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/304.m3u8
+#EXTINF:-1 ,RTP 3
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/422.m3u8
+#EXTINF:-1 ,SIC NOTICIAS
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/220.m3u8
+#EXTINF:-1 ,SIC NOTICIAS HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/668.m3u8
+#EXTINF:-1 ,SIC RADICAL
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/215.m3u8
+#EXTINF:-1 ,SIC MULHER
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/308.m3u8
+#EXTINF:-1 ,SIC CARAS
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/600.m3u8
+#EXTINF:-1 ,TVI FICCAO
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/302.m3u8
+#EXTINF:-1 ,TVI REALITY
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/1049.m3u8
+#EXTINF:-1 ,FATIMA TV
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/771.m3u8
+#EXTINF:-1 ,SPORT TV 1
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/177.m3u8
+#EXTINF:-1 ,SPORT TV 1 LB
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/359.m3u8
+#EXTINF:-1 ,SPORT TV 1 HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/355.m3u8
+#EXTINF:-1 ,SPORT TV 1 FULL HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/189.m3u8
+#EXTINF:-1 ,SPORT TV 2
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/178.m3u8
+#EXTINF:-1 ,SPORT TV 2 HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/683.m3u8
+#EXTINF:-1 ,SPORT TV 2 FULL HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/351.m3u8
+#EXTINF:-1 ,SPORT TV 3
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/179.m3u8
+#EXTINF:-1 ,SPORT TV 3 HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/684.m3u8
+#EXTINF:-1 ,SPORT TV 3 FULL HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/352.m3u8
+#EXTINF:-1 ,SPORT TV 4
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/180.m3u8
+#EXTINF:-1 ,SPORT TV 4 HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/685.m3u8
+#EXTINF:-1 ,SPORT TV 4 FULL HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/566.m3u8
+#EXTINF:-1 ,SPORT TV 5
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/181.m3u8
+#EXTINF:-1 ,SPORT TV 5 HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/686.m3u8
+#EXTINF:-1 ,SPORT TV 5 FULL HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/567.m3u8
+#EXTINF:-1 ,SPORT TV +
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/219.m3u8
+#EXTINF:-1 ,ELEVEN SPORm3u8 1 SD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/748.m3u8
+#EXTINF:-1 ,ELEVEN SPORm3u8 1 FULL HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/705.m3u8
+#EXTINF:-1 ,ELEVEN SPORm3u8 2 SD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/749.m3u8
+#EXTINF:-1 ,ELEVEN SPORm3u8 2 FULL HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/706.m3u8
+#EXTINF:-1 ,ELEVEN SPORm3u8 3 FULL HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/718.m3u8
+#EXTINF:-1 ,ELEVEN SPORm3u8 4 FULL HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/765.m3u8
+#EXTINF:-1 ,ELEVEN SPORm3u8 5 FULL HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/766.m3u8
+#EXTINF:-1 ,ELEVEN SPORm3u8 6 FULL HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/767.m3u8
+#EXTINF:-1 ,BENFICA TV
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/354.m3u8
+#EXTINF:-1 ,BENFICA TV LB
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/360.m3u8
+#EXTINF:-1 ,BENFICA TV HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/342.m3u8
+#EXTINF:-1 ,BENFICA TV FULL HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/187.m3u8
+#EXTINF:-1 ,PORTO CANAL
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/190.m3u8
+#EXTINF:-1 ,SPORTING TV
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/221.m3u8
+#EXTINF:-1 ,CANAL 11 HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/975.m3u8
+#EXTINF:-1 ,A BOLA TV
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/222.m3u8
+#EXTINF:-1 ,NBA TV
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/858.m3u8
+#EXTINF:-1 ,EUROSPORT 1
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/216.m3u8
+#EXTINF:-1 ,EUROSPORT 1 HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/617.m3u8
+#EXTINF:-1 ,EUROSPORT 2
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/217.m3u8
+#EXTINF:-1 ,MOTORVISION
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/783.m3u8
+#EXTINF:-1 ,KOMBAT SPORT
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/666.m3u8
+#EXTINF:-1 ,CACA E PESCA
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/410.m3u8
+#EXTINF:-1 ,CACAVISION
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/350.m3u8
+#EXTINF:-1 ,TOROS TV
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/533.m3u8
+#EXTINF:-1 ,PFC
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/229.m3u8
+#EXTINF:-1 ,TVCINE 1
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/183.m3u8
+#EXTINF:-1 ,TVCINE 1 HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/408.m3u8
+#EXTINF:-1 ,TVCINE 2
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/184.m3u8
+#EXTINF:-1 ,TVCINE 2 HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/406.m3u8
+#EXTINF:-1 ,TVCINE 3
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/185.m3u8
+#EXTINF:-1 ,TVCINE 3 HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/407.m3u8
+#EXTINF:-1 ,TVCINE 4
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/186.m3u8
+#EXTINF:-1 ,TVCINE 4 HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/409.m3u8
+#EXTINF:-1 ,TV SERIES
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/223.m3u8
+#EXTINF:-1 ,TV SERIES HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/730.m3u8
+#EXTINF:-1 ,NOS STUDIOS HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/962.m3u8
+#EXTINF:-1 ,NETFLIX PORTUGAL
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/1047.m3u8
+#EXTINF:-1 ,HBO PORTUGAL
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/1048.m3u8
+#EXTINF:-1 ,AXN HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/296.m3u8
+#EXTINF:-1 ,AXN WHITE HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/399.m3u8
+#EXTINF:-1 ,AXN BLACK HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/400.m3u8
+#EXTINF:-1 ,FOX HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/297.m3u8
+#EXTINF:-1 ,FOX LIFE HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/599.m3u8
+#EXTINF:-1 ,FOX CRIME HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/475.m3u8
+#EXTINF:-1 ,FOX MOVIES
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/231.m3u8
+#EXTINF:-1 ,FOX MOVIES HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/728.m3u8
+#EXTINF:-1 ,FOX COMEDY
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/307.m3u8
+#EXTINF:-1 ,FOX COMEDY HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/729.m3u8
+#EXTINF:-1 ,HOLLYWOOD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/225.m3u8
+#EXTINF:-1 ,HOLLYWOOD HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/466.m3u8
+#EXTINF:-1 ,CINEMUNDO
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/398.m3u8
+#EXTINF:-1 ,SYFY
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/300.m3u8
+#EXTINF:-1 ,AMC
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/306.m3u8
+#EXTINF:-1 ,MTV PORTUGAL
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/301.m3u8
+#EXTINF:-1 ,TRACE TV
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/344.m3u8
+#EXTINF:-1 ,VH1
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/348.m3u8
+#EXTINF:-1 ,DISNEY CHANNEL
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/703.m3u8
+#EXTINF:-1 ,DISNEY JUNIOR
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/191.m3u8
+#EXTINF:-1 ,CANAL PANDA
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/224.m3u8
+#EXTINF:-1 ,PANDA BIGGS
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/309.m3u8
+#EXTINF:-1 ,NICKELODEON
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/455.m3u8
+#EXTINF:-1 ,NICK JUNIOR
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/495.m3u8
+#EXTINF:-1 ,CARTOON NETWORK
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/236.m3u8
+#EXTINF:-1 ,JIM JAM
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/305.m3u8
+#EXTINF:-1 ,SIC K
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/789.m3u8
+#EXTINF:-1 ,BABY TV
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/601.m3u8
+#EXTINF:-1 ,NATIONAL GEOGRAPHIC HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/298.m3u8
+#EXTINF:-1 ,NAT GEO WILD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/238.m3u8
+#EXTINF:-1 ,DISCOVERY CHANNEL
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/237.m3u8
+#EXTINF:-1 ,ID INVESTIGATION DISCOVERY
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/940.m3u8
+#EXTINF:-1 ,ODISSEIA
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/239.m3u8
+#EXTINF:-1 ,CANAL HISTORIA
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/240.m3u8
+#EXTINF:-1 ,CBS REALITY
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/303.m3u8
+#EXTINF:-1 ,BLAZE
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/242.m3u8
+#EXTINF:-1 ,TLC
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/543.m3u8
+#EXTINF:-1 ,24 KITCHEN HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/610.m3u8
+#EXTINF:-1 ,MY CUISINE
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/938.m3u8
+#EXTINF:-1 ,TV RECORD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/412.m3u8
+#EXTINF:-1 ,TV GLOBO
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/544.m3u8
+#EXTINF:-1 ,GLOBO NOW
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/233.m3u8

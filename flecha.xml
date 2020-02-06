@@ -1,0 +1,163 @@
+#EXTM3U
+#EXTINF:-1,PT| RTP 1 H
+http://iptv.nonoip.com:7000/sabir1/12345678/1481
+#EXTINF:-1,PT| RTP 2 HD
+http://iptv.nonoip.com:7000/sabir1/12345678/1482
+#EXTINF:-1,PT| RTP 3 HD
+http://iptv.nonoip.com:7000/sabir1/12345678/1487
+#EXTINF:-1,PT| RTP ACORES HD
+http://iptv.nonoip.com:7000/sabir1/12345678/1488
+#EXTINF:-1,PT| RTP MEMORIA HD
+http://iptv.nonoip.com:7000/sabir1/12345678/1489
+#EXTINF:-1,PT| ABOLA TV HD
+http://iptv.nonoip.com:7000/sabir1/12345678/1530
+#EXTINF:-1,PT| AXN BLACK HD
+http://iptv.nonoip.com:7000/sabir1/12345678/1505
+#EXTINF:-1,PT| AXN HD
+http://iptv.nonoip.com:7000/sabir1/12345678/1506
+#EXTINF:-1,PT| AXN WHITE HD
+http://iptv.nonoip.com:7000/sabir1/12345678/1507
+#EXTINF:-1,PT| BTV 1 HD
+http://iptv.nonoip.com:7000/sabir1/12345678/1526
+#EXTINF:-1,PT| BTV 1
+http://iptv.nonoip.com:7000/sabir1/12345678/1525
+#EXTINF:-1,PT| CAZA e PESCA HD
+http://iptv.nonoip.com:7000/sabir1/12345678/1552
+#EXTINF:-1,PT| CANAL Q
+http://iptv.nonoip.com:7000/sabir1/12345678/1485
+#EXTINF:-1,PT| CARTOON NETWORK HD
+http://iptv.nonoip.com:7000/sabir1/12345678/1537
+#EXTINF:-1,PT| CINE MUNDO HD
+http://iptv.nonoip.com:7000/sabir1/12345678/1508
+#EXTINF:-1,PT| CMTV HD
+http://iptv.nonoip.com:7000/sabir1/12345678/1494
+#EXTINF:-1,PT| DISCOVERY CHANNEL HD
+http://iptv.nonoip.com:7000/sabir1/12345678/1538
+#EXTINF:-1,PT| DISCOVERY SHOWCASE
+http://iptv.nonoip.com:7000/sabir1/12345678/1539
+#EXTINF:-1,PT| DISNEY CHANNEL HD
+http://iptv.nonoip.com:7000/sabir1/12345678/1532
+#EXTINF:-1,PT| DISNEY JUNIOR HD
+http://iptv.nonoip.com:7000/sabir1/12345678/1533
+#EXTINF:-1,PT| EUROSPORT 1 FHD
+http://iptv.nonoip.com:7000/sabir1/12345678/1529
+#EXTINF:-1,PT| FOX COMEDY HD
+http://iptv.nonoip.com:7000/sabir1/12345678/1510
+#EXTINF:-1,PT| FOX CRIME HD
+http://iptv.nonoip.com:7000/sabir1/12345678/1511
+#EXTINF:-1,PT| FOX HD
+http://iptv.nonoip.com:7000/sabir1/12345678/1509
+#EXTINF:-1,PT| FOX LIFE HD
+http://iptv.nonoip.com:7000/sabir1/12345678/1512
+#EXTINF:-1,PT| FOX MOVIES HD
+http://iptv.nonoip.com:7000/sabir1/12345678/1513
+#EXTINF:-1,PT| TV GLOBO HD
+http://iptv.nonoip.com:7000/sabir1/12345678/1554
+#EXTINF:-1,PT| HISTORIA
+http://iptv.nonoip.com:7000/sabir1/12345678/1540
+#EXTINF:-1,PT| HOLLYWOOD HD
+http://iptv.nonoip.com:7000/sabir1/12345678/1502
+#EXTINF:-1,PT| MOV HD
+http://iptv.nonoip.com:7000/sabir1/12345678/1503
+#EXTINF:-1,PT| NAT GEO WILD HD
+http://iptv.nonoip.com:7000/sabir1/12345678/1542
+#EXTINF:-1,PT| NATIONAL GEOGRAPHIC FHD
+http://iptv.nonoip.com:7000/sabir1/12345678/1541
+#EXTINF:-1,PT| NICKELODEON HD
+http://iptv.nonoip.com:7000/sabir1/12345678/1534
+#EXTINF:-1,PT| ODISSEIA HD
+http://iptv.nonoip.com:7000/sabir1/12345678/1551
+#EXTINF:-1,PT| PANDA HD
+http://iptv.nonoip.com:7000/sabir1/12345678/1535
+#EXTINF:-1,PT| SIC HD
+http://iptv.nonoip.com:7000/sabir1/12345678/1483
+#EXTINF:-1,PT| SIC CARAS HD
+http://iptv.nonoip.com:7000/sabir1/12345678/1490
+#EXTINF:-1,PT| SIC Kids HD
+http://iptv.nonoip.com:7000/sabir1/12345678/1491
+#EXTINF:-1,PT| SIC NOTICIAS HD
+http://iptv.nonoip.com:7000/sabir1/12345678/1493
+#EXTINF:-1,PT| SPORT TV 1 FHD
+http://iptv.nonoip.com:7000/sabir1/12345678/1515
+#EXTINF:-1,PT| SPORT TV 1 HD
+http://iptv.nonoip.com:7000/sabir1/12345678/1514
+#EXTINF:-1,PT| SPORT TV 2 FHD
+http://iptv.nonoip.com:7000/sabir1/12345678/1517
+#EXTINF:-1,PT| SPORT TV 2 HD
+http://iptv.nonoip.com:7000/sabir1/12345678/1516
+#EXTINF:-1,PT| SPORT TV 3 FHD
+http://iptv.nonoip.com:7000/sabir1/12345678/1519
+#EXTINF:-1,PT| SPORT TV 3 HD
+http://iptv.nonoip.com:7000/sabir1/12345678/1518
+#EXTINF:-1,PT| SPORT TV 4 FHD
+http://iptv.nonoip.com:7000/sabir1/12345678/1521
+#EXTINF:-1,PT| SPORT TV 4 HD
+http://iptv.nonoip.com:7000/sabir1/12345678/1520
+#EXTINF:-1,PT| SPORT TV 5 FHD
+http://iptv.nonoip.com:7000/sabir1/12345678/1523
+#EXTINF:-1,PT| SPORT TV 5 HD
+http://iptv.nonoip.com:7000/sabir1/12345678/1522
+#EXTINF:-1,PT| SPORTTV HD
+http://iptv.nonoip.com:7000/sabir1/12345678/1524
+#EXTINF:-1,PT| SPORTINGTV HD
+http://iptv.nonoip.com:7000/sabir1/12345678/1527
+#EXTINF:-1,PT| SYFY
+http://iptv.nonoip.com:7000/sabir1/12345678/1504
+#EXTINF:-1,PT| TOROS TV
+http://iptv.nonoip.com:7000/sabir1/12345678/1531
+#EXTINF:-1,PT| TVCINE 1 FHD
+http://iptv.nonoip.com:7000/sabir1/12345678/1545
+#EXTINF:-1,PT| TVCINE 1 HD
+http://iptv.nonoip.com:7000/sabir1/12345678/1497
+#EXTINF:-1,PT| TVCINE 2 FHD
+http://iptv.nonoip.com:7000/sabir1/12345678/1546
+#EXTINF:-1,PT| TVCINE 2 HD
+http://iptv.nonoip.com:7000/sabir1/12345678/1498
+#EXTINF:-1,PT| TVCINE 3 FHD
+http://iptv.nonoip.com:7000/sabir1/12345678/1547
+#EXTINF:-1,PT| TVCINE 3 HD
+http://iptv.nonoip.com:7000/sabir1/12345678/1499
+#EXTINF:-1,PT| TVCINE 4 HD
+http://iptv.nonoip.com:7000/sabir1/12345678/1500
+#EXTINF:-1,PT| TV SERIES HD
+http://iptv.nonoip.com:7000/sabir1/12345678/1501
+#EXTINF:-1,PT| TVI HD
+http://iptv.nonoip.com:7000/sabir1/12345678/1484
+#EXTINF:-1,PT| TVI 24 HD
+http://iptv.nonoip.com:7000/sabir1/12345678/1492
+#EXTINF:-1,PT| TVI FICCAO HD
+http://iptv.nonoip.com:7000/sabir1/12345678/1496
+#EXTINF:-1,PT| TVI REALITY HD
+http://iptv.nonoip.com:7000/sabir1/12345678/1495
+#EXTINF:-1,PT| Afro Music Channel
+http://iptv.nonoip.com:7000/sabir1/12345678/3782
+#EXTINF:-1,PT| MCM POP
+http://iptv.nonoip.com:7000/sabir1/12345678/3781
+#EXTINF:-1,PT| MCM TOP
+http://iptv.nonoip.com:7000/sabir1/12345678/3780
+#EXTINF:-1,PT| Mezzo
+http://iptv.nonoip.com:7000/sabir1/12345678/3779
+#EXTINF:-1,PT| MTV
+http://iptv.nonoip.com:7000/sabir1/12345678/3783
+#EXTINF:-1,PT| Trace Urban
+http://iptv.nonoip.com:7000/sabir1/12345678/3777
+#EXTINF:-1,PT| VH1
+http://iptv.nonoip.com:7000/sabir1/12345678/3776
+#EXTINF:-1,PT| Eleven Sports 1 HD
+http://iptv.nonoip.com:7000/sabir1/12345678/5014
+#EXTINF:-1,PT| Eleven Sports 1 FHD
+http://iptv.nonoip.com:7000/sabir1/12345678/5013
+#EXTINF:-1,PT| Eleven Sports 2 HD
+http://iptv.nonoip.com:7000/sabir1/12345678/5012
+#EXTINF:-1,PT| Eleven Sports 2 FHD
+http://iptv.nonoip.com:7000/sabir1/12345678/5011
+#EXTINF:-1,PT| Eleven Sports 3 HD
+http://iptv.nonoip.com:7000/sabir1/12345678/5010
+#EXTINF:-1,PT| Eleven Sports 3 FHD
+http://iptv.nonoip.com:7000/sabir1/12345678/5009
+#EXTINF:-1,PT| Eleven Sports 4 HD
+http://iptv.nonoip.com:7000/sabir1/12345678/5008
+#EXTINF:-1,PT| Eleven Sports 5 HD
+http://iptv.nonoip.com:7000/sabir1/12345678/5006
+#EXTINF:-1,PT| Eleven Sports 6  HD
+http://iptv.nonoip.com:7000/sabir1/12345678/5004
